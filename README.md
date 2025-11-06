@@ -198,7 +198,7 @@ uv run streamlit run frontend/app.py
 
 ### Base URL
 
-```http
+```bash
 http://127.0.0.1:8000
 ```
 
